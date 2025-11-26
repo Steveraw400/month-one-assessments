@@ -39,7 +39,7 @@ This script:
 
 This script:
 
-- Installs PostgreSQL 13
+- Installs PostgreSQL 14
 - Initializes PostgreSQL
 - Enables + starts the service
 - Updates config to:
