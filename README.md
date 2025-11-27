@@ -16,8 +16,8 @@ project-root/
 . outputs.tf
 . terraform.tfvars.example
 . user_data/
-   - web_server_setup.sh
-   - db_server_setup.sh
+   web_server_setup.sh
+   db_server_setup.sh
 . README.md
 
 
