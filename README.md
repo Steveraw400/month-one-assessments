@@ -97,4 +97,7 @@ psql -h <db-private-ip> -U webapp -d techcorpdb
 You can modify CIDRs/passwords as needed.
 These scripts work for Amazon Linux 2 only.
 
+## Always run this command if you no longer need the resources created
+terraform destroy -auto-approve
+
 
