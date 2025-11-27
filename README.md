@@ -11,14 +11,14 @@ This project deploys a **web server** and a **database server** using:
 ## 📌 Project Structure
 
 project-root/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── terraform.tfvars.example
-├── user_data/
-│   ├── web_server_setup.sh
-│   └── db_server_setup.sh
-└── README.md
+. main.tf
+. variables.tf
+. outputs.tf
+. terraform.tfvars.example
+. user_data/
+   - web_server_setup.sh
+   - db_server_setup.sh
+. README.md
 
 
 
